@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.6;
+}
+
+.h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.logo{
+    display: block;
+    max-width: 100px;
+    height: auto;
+}
+
+.header{
+    padding: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #333;
+    background-color: #bddfe4;
+    border-radius: 100px;
+    width: 50%;
+    margin: 0 auto;
+}
+
