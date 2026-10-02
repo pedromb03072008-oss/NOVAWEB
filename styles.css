@@ -30,3 +30,21 @@ body{
     margin: 0 auto;
 }
 
+.services{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #333;
+    background-color: #d6eef1;
+    border-radius: 100px;
+    width: 100%;
+    margin: 0 auto;
+}
+.h2{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
